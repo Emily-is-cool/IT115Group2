@@ -6,10 +6,10 @@
 
 **Group members:**   
 
-Aboubacar Tandia     
-Donnovin Rogers     
-Emily Brune      
-Hanan Osman     
-William Anderson     
-Zhongyuan Huang    
+[Aboubacar Tandia](https://github.com/Tandia223)     
+[Donnovin Rogers](https://github.com/bmobito)     
+[Emily Brune](https://github.com/Emily-is-cool)      
+[Hanan Osman](https://github.com/heosman)         
+[William Anderson](https://github.com/sstar691969)     
+[Zhongyuan Huang](https://github.com/John-Orange)    
 
