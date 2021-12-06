@@ -96,6 +96,11 @@ main {
     text-align: center;
 }
 
+#display {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 .button {
     padding: 35px 10px 10px 10px;
 }
@@ -140,3 +145,4 @@ footer li {
     list-style-type: none;
     margin-left: 20px;
 }
+
