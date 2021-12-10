@@ -14,9 +14,9 @@ This is the repository for IT115 Group 2's final project. The final project was 
 ### Other Links    
 
 [Hello World Web App](https://emily-is-cool.github.io/IT115Group2/app.html)    
+[Web App on MEAN Stack](http://35.247.56.215:3000/app.html)      
 [Github Website](https://emily-is-cool.github.io/IT115Group2/)  
-[Project Doc](https://docs.google.com/document/d/1yaaZaN3VyNNaw3cedyCzQwRUGzbQfgFDSplMe351pgU/edit?usp=sharing)
-[Live App](http://35.247.56.215:3000/app.html)
+[Project Doc](https://docs.google.com/document/d/1yaaZaN3VyNNaw3cedyCzQwRUGzbQfgFDSplMe351pgU/edit?usp=sharing)    
 
 ## Our Team 
 
